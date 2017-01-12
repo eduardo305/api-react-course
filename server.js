@@ -10,11 +10,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 
 const app = express();
-console.log('*****************')
-console.log('env: ' + app.settings.env);
-console.log('*****************')
-console.log('mongo: ' + config.mongo.uri['production']);
-console.log('*****************')
+
 if (mongoose.connection.readyState === 0) {
   mongoose.connect(config.mongo.uri[app.settings.env], config.mongo.options);
 }
