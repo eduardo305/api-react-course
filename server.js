@@ -12,7 +12,7 @@ const cors = require('cors');
 const app = express();
 
 if (mongoose.connection.readyState === 0) {
-  mongoose.connect(config.mongo.uri[app.settings.env], config.mongo.options);
+  mongoose.connect("mongodb://react-course:react-course@ds159978.mlab.com:59978/react-course");
 }
 
 app.use(cors());
