@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "578571a0dcba0f3bf6198b32",
+      "email": "eduardo305@gmail.com",
+      "password": "123"
+    },
+    {
+      "_id": "57892f1855514e872bf24587",
+      "email": "ewerton.silva@gmail.com",
+      "password": "$2a$10$Okjjh9zJhPzyIXBmISa9UOt5WpRjfnnQ91P1aeecgU6hkogZhyE3S",
+      "__v": 0
+    },
+    {
+      "_id": "57892fc6dd60987e2cd53621",
+      "email": "ewerton@gmail.com",
+      "password": "$2a$10$3FItAxF7CgP4Mi2CHBYguO12MioHx05EeeI9elAFb3HwEOaibUHXq",
+      "__v": 0
+    },
+    {
+      "_id": "578930b5dd60987e2cd53622",
+      "email": "es@gmail.com",
+      "password": "$2a$10$yGEurLlWiMFrdPwKOOKT1ua.S2YK5Djiw66LkoWvEP7E/wvtP58d.",
+      "__v": 0
+    },
+    {
+      "_id": "578930e8dd60987e2cd53623",
+      "email": "esilva@gmail.com",
+      "password": "$2a$10$TQNn6zaTj49N37vlcl/hJulUmoeMADFy3KNsxt/gUlQuWGc.8K1J.",
+      "__v": 0
+    },
+    {
+      "_id": "578a72b6c177420300443ec5",
+      "email": "eddie@gmail.com",
+      "password": "$2a$10$NModGnKPb/oW0gKqRDuO5ecdj5l8PwyQPTvh6TuEDmpHRfq/R0XEG",
+      "__v": 0
+    },
+    {
+      "_id": "578a7403b9841f9019e0c410",
+      "email": "eddie1@gmail.com",
+      "password": "$2a$10$qpyEE3brrbq.jwVTHjvq9e2.j74h4Fn0pQLbS2rJgWYZaIUEArPm6",
+      "__v": 0
+    },
+    {
+      "_id": "578a7486c177420300443ec6",
+      "email": "eddie2@gmail.com",
+      "password": "$2a$10$fx/54F/c5yNYPS3tcDQhreczjJ03mVqwfSJEq6w7LLLQNUcBVVp2q",
+      "__v": 0
+    },
+    {
+      "_id": "578a7c6685cb9acc1d4b5b6d",
+      "email": "eddie3@gmail.com",
+      "password": "$2a$10$Hw.7MpwCv4q.UlahgG9MdeaBKW4P/oNd8KakiknZIxHmnJocCV9Ze",
+      "__v": 0
+    },
+    {
+      "_id": "578a7f8385cb9acc1d4b5b6e",
+      "email": "eddie5@gmail.com",
+      "password": "$2a$10$BC1JPgYNB1xQR0UF0DzLSueSBC7Nk8uAauZveNv9A.Su914r0cmGG",
+      "__v": 0
+    },
+    {
+      "_id": "578a815e85cb9acc1d4b5b6f",
+      "email": "eddie6@gmail.com",
+      "password": "$2a$10$UyNCJ8jzadgQCZO9P0L46OF.J5BKZoBp3w0gCkvi/wj2wtKikl0q2",
+      "__v": 0
+    },
+    {
+      "_id": "578a82cf85cb9acc1d4b5b70",
+      "email": "eddie8@gmail.com",
+      "password": "$2a$10$u8sJ7.yWi2uWJfjahYBxn.IF5sPuvazptuD3rwa8kdX7B0FFAErK6",
+      "__v": 0
+    },
+    {
+      "_id": "578a848985cb9acc1d4b5b71",
+      "email": "eddie9@gmail.com",
+      "password": "$2a$10$6qkIttX4ZlgGwUFFww6tS.KXr9eSTcxfSbdCxvfQpAV8r4LOloMNS",
+      "__v": 0
+    },
+    {
+      "_id": "578a854885cb9acc1d4b5b72",
+      "email": "eddie10@gmail.com",
+      "password": "$2a$10$YJkvoxbTCKGuXwm0u5IQseUeFHmsU4luU6/omhYdSkBc9E1HcpN8a",
+      "__v": 0
+    },
+    {
+      "_id": "578a90d42fdba503002833d3",
+      "email": "eddie11@gmail.com",
+      "password": "$2a$10$12FmxHixZ0d/557KewY9aOuqQ4Ox9hb6hNffxU8t7BXPg/x9iwXSG",
+      "__v": 0
+    },
+    {
+      "_id": "578a95c32fdba503002833d4",
+      "email": "ewertoncb@gmail.com",
+      "password": "$2a$10$PYX6BkRc587rxJSIB0DmCe.lCbSmwOmxeUOZa.UgVcf9obJqUGP8C",
+      "__v": 0
+    },
+    {
+      "_id": "578d5a675942b10f5c4d269a",
+      "email": "tdd@test.com",
+      "password": "$2a$10$vSGrBx0/5AlgM189RwOEzutS1PqDc67PouYeFKBr4A3gItZZTASra",
+      "__v": 0
+    }
+  ]
+}

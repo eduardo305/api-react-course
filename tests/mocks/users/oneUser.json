@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "data": {
+    "_id": "578d5a675942b10f5c4d269a",
+    "email": "tdd@test.com",
+    "password": "$2a$10$vSGrBx0/5AlgM189RwOEzutS1PqDc67PouYeFKBr4A3gItZZTASra",
+    "__v": 0
+  }
+}
